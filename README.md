@@ -7,7 +7,7 @@ Developed a full-stack application that allows users to register, authenticate, 
 
 
 
-![Screenshot 2025-07-05 102531](https://github.com/user-attachments/assets/29519536-d029-4c63-90d1-975058d1e145)
+
 
 
 ![Screenshot 2025-07-05 102429](https://github.com/user-attachments/assets/81d2b685-086d-45fc-b79d-19598141436e)
@@ -18,7 +18,8 @@ Developed a full-stack application that allows users to register, authenticate, 
 
 
 
-![Uploading Screenshot 2025-07-05 101525.png…]()
+![Screenshot 2025-07-05 101525](https://github.com/user-attachments/assets/947fb52b-b032-4e69-a055-b399548c58df)
+
 
 
 
